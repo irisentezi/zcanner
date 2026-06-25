@@ -20,6 +20,13 @@
       "hwid": "DEMO-HWID-2024",
       "expiry": "2030-01-01",
       "plan": "Trial"
+    },
+    {
+      "username": "Ronaldo",
+      "password": "Bebeoc",
+      "hwid": "A1B2C3D4E5F6",
+      "expiry": "2026-06-24",
+      "plan": "Premium"
     }
   ]
 }

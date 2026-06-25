@@ -1,15 +1,6 @@
 {
-  "processes": [
-    "cheat_engine.exe",
-    "x64dbg.exe",
-    "ollydbg.exe",
-    "dnSpy.exe",
-    "processhacker.exe",
-    "injector.exe"
-  ],
-  "files": [
-    "C:\\Windows\\System32\\cheat.dll",
-    "C:\\Users\\Public\\malware.exe",
-    "D:\\Oyunlar\\temp_injector.dll"
-  ]
+  "processes": ["javaw.exe", "cheat_engine.exe"],
+  "files": ["C:\\Users\\...\\hacked_client.jar"],
+  "strings": ["XRay", "Killaura", "Jesus", "EntityESP"], 
+  "hash_blacklist": ["d41d8cd98f00b204e9800998ecf8427e"] 
 }

@@ -1,1 +1,25 @@
-
+{
+  "users": [
+    {
+      "username": "Ahmet",
+      "password": "123456",
+      "hwid": "A1B2C3D4E5F6",
+      "expiry": "2026-12-31",
+      "plan": "Premium"
+    },
+    {
+      "username": "Mehmet",
+      "password": "abcdef",
+      "hwid": "F6E5D4C3B2A1",
+      "expiry": "2027-01-15",
+      "plan": "Elite"
+    },
+    {
+      "username": "Demo",
+      "password": "demo123",
+      "hwid": "DEMO-HWID-2024",
+      "expiry": "2030-01-01",
+      "plan": "Trial"
+    }
+  ]
+}

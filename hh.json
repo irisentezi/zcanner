@@ -1,0 +1,15 @@
+{
+  "processes": [
+    "cheat_engine.exe",
+    "x64dbg.exe",
+    "ollydbg.exe",
+    "dnSpy.exe",
+    "processhacker.exe",
+    "injector.exe"
+  ],
+  "files": [
+    "C:\\Windows\\System32\\cheat.dll",
+    "C:\\Users\\Public\\malware.exe",
+    "D:\\Oyunlar\\temp_injector.dll"
+  ]
+}
